@@ -6,8 +6,8 @@ instruction hygiene, and reproducible evaluation.
 ## Projects
 
 - [`tool-tax`](https://github.com/SihyeonJeon/tool-tax): measure hidden token
-  cost in MCP and agent tool catalogs, then generate a slim progressive-loading
-  index.
+  cost in MCP and agent tool catalogs, diff PR changes, and generate a slim
+  progressive-loading index.
 - [`prompt-diet`](https://github.com/SihyeonJeon/prompt-diet): lint agent
   instruction files for prompt bloat, risky wording, and CI-enforceable diet
   labels.
