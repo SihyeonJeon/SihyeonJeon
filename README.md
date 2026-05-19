@@ -7,7 +7,8 @@ instruction hygiene, and reproducible evaluation.
 
 - [`tool-tax`](https://github.com/SihyeonJeon/tool-tax): measure hidden token
   cost in live MCP servers, OpenAPI files, and agent tool catalogs; diff PR
-  changes and generate a slim progressive-loading index. Install:
+  changes, generate a slim progressive-loading index, and run a lazy-schema
+  MCP stdio proxy. Install:
   `pipx install tool-tax`.
 - [`prompt-diet`](https://github.com/SihyeonJeon/prompt-diet): lint agent
   instruction files for prompt bloat, risky wording, and CI-enforceable diet
