@@ -15,10 +15,15 @@ context files, and reproducible public claims.
   structure and copy rhythm without inheriting source-site subject matter.
   Install:
   `pipx install site2voice`.
+- [`Modulation-aware-key-estimator`](https://github.com/SihyeonJeon/Modulation-aware-key-estimator):
+  estimate region-wise musical keys in songs with modulation, expose the model
+  through a CLI and FastAPI service, and optionally transpose detected regions
+  to one target key.
 
 ## Current Focus
 
 - MCP/tool-schema context bloat
 - AI-agent context files for web structure and copy
+- applied audio ML and music-information retrieval
 - CI checks and reproducible benchmarks
 - concise public docs with clear boundaries
