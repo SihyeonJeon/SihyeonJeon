@@ -1,7 +1,7 @@
 # SihyeonJeon
 
-Building small tools for agentic AI workflows: token budgets, tool catalogs,
-instruction hygiene, and reproducible evaluation.
+Building small tools for agentic AI workflows: tool-schema budgets, repo-local
+context files, and reproducible public claims.
 
 ## Projects
 
@@ -10,16 +10,15 @@ instruction hygiene, and reproducible evaluation.
   changes, generate a slim progressive-loading index, and run a lazy-schema
   MCP stdio proxy. Install:
   `pipx install tool-tax`.
-- [`prompt-diet`](https://github.com/SihyeonJeon/prompt-diet): lint agent
-  instruction files for prompt bloat, risky wording, and CI-enforceable diet
-  labels.
-- [`caveman-agent-bench`](https://github.com/SihyeonJeon/caveman-agent-bench):
-  benchmark whether compressed primitive instructions preserve agent task
-  success.
+- [`site2voice`](https://github.com/SihyeonJeon/site2voice): use public web
+  patterns as `SITE.md` and `VOICE.md` context files so agents get page
+  structure and copy rhythm without inheriting source-site subject matter.
+  Install:
+  `pipx install site2voice`.
 
 ## Current Focus
 
 - MCP/tool-schema context bloat
-- CI budget checks for agent repos
-- reproducible agent-tooling claims
-- concise OSS docs with visible install and effect
+- AI-agent context files for web structure and copy
+- CI checks and reproducible benchmarks
+- concise public docs with clear boundaries
