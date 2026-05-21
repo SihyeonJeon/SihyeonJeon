@@ -3,6 +3,8 @@
 Building practical tools and applied ML projects: agent workflow budgets,
 repo-local context files, audio inference, and reproducible public claims.
 
+Portfolio and technical notes: https://sihyeonjeon.github.io
+
 ## Projects
 
 - [`tool-tax`](https://github.com/SihyeonJeon/tool-tax): measure hidden token
