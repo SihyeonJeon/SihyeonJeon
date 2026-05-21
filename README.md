@@ -1,7 +1,7 @@
 # SihyeonJeon
 
-Building small tools for agentic AI workflows: tool-schema budgets, repo-local
-context files, and reproducible public claims.
+Building practical tools and applied ML projects: agent workflow budgets,
+repo-local context files, audio inference, and reproducible public claims.
 
 ## Projects
 
