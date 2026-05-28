@@ -1,31 +1,39 @@
 # SihyeonJeon
 
-Building practical tools and applied ML projects: agent workflow budgets,
-repo-local context files, audio inference, and reproducible public claims.
+AI Engineering · Agentic Systems
 
-Portfolio and technical notes: https://sihyeonjeon.github.io
+_fall in love with the problem, not the solution._
 
-## Projects
+- SeoulTech · Applied Artificial Intelligence + Industrial Engineering
+- Data Science · AI Engineering
+- Focus: Agentic Systems
 
-- [`tool-tax`](https://github.com/SihyeonJeon/tool-tax): measure hidden token
-  cost in live MCP servers, OpenAPI files, and agent tool catalogs; diff PR
-  changes, generate a slim progressive-loading index, and run a lazy-schema
-  MCP stdio proxy. Install:
-  `pipx install tool-tax`.
-- [`site2voice`](https://github.com/SihyeonJeon/site2voice): use public web
-  patterns as `SITE.md` and `VOICE.md` context files so agents get page
-  structure and copy rhythm without inheriting source-site subject matter.
-  Install:
-  `pipx install site2voice`.
+Site: https://sihyeonjeon.github.io
+
+## Work
+
+- [`industrial-rag-gate`](https://github.com/SihyeonJeon/industrial-rag-gate):
+  industrial manual QA evaluation, citation checks, safety escalation,
+  review packets.
+- [`p2p-replay-gate`](https://github.com/SihyeonJeon/p2p-replay-gate):
+  purchase-to-pay workflow replay, agent action gates, audit reports.
+- [`replenishment-policy-gate`](https://github.com/SihyeonJeon/replenishment-policy-gate):
+  demand forecasting, base-stock simulation, service-floor checks, SKU failure
+  reports.
+- [`tool-tax`](https://github.com/SihyeonJeon/tool-tax): tool catalog
+  measurement, schema token reports, MCP/OpenAPI risk lint.
+- [`site-voice-packs`](https://github.com/SihyeonJeon/site-voice-packs):
+  `SITE.md` / `VOICE.md` context files, source-term checks, visible HTML
+  comparison.
 - [`Modulation-aware-key-estimator`](https://github.com/SihyeonJeon/Modulation-aware-key-estimator):
-  estimate region-wise musical keys in songs with modulation, expose the model
-  through a CLI and FastAPI service, and optionally transpose detected regions
-  to one target key.
+  applied audio ML artifact, region-wise key inference, CLI/API surface.
 
-## Current Focus
+## Stack
 
-- MCP/tool-schema context bloat
-- AI-agent context files for web structure and copy
-- applied audio ML and music-information retrieval
-- CI checks and reproducible benchmarks
-- concise public docs with clear boundaries
+- Python
+- PyTorch
+- scikit-learn
+- pandas
+- FastAPI
+- SQL
+- GitHub Actions
