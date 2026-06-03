@@ -1,6 +1,6 @@
 # SihyeonJeon
 
-AI Engineering · Agentic Systems
+AI Modeling · AI Engineering
 
 _fall in love with the problem, not the solution._
 
